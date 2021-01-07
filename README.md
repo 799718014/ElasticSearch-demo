@@ -26,4 +26,3 @@ kibana：https://www.elastic.co/cn/downloads/past-releases/kibana-7-6-1
 
 6、返回list，前端渲染
 
-}
